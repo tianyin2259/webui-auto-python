@@ -1,0 +1,7 @@
+reports/*
+__pycache__/*
+/venv/
+*.pyc
+.python-version
+logs/*
+.idea

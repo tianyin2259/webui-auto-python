@@ -1,0 +1,19 @@
+# 公共参数
+case_common:
+  allure_epic: 百度
+  allure_feature: 百度
+  allure_story: 搜索
+
+search_01:
+  case_name: 输入中文搜索
+  data:
+    - 大君
+  assert:
+    msg: ok
+
+search_02:
+  case_name: 输入英文搜索
+  data:
+    - ChatGPT
+  assert:
+    msg: ok

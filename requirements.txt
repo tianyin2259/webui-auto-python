@@ -1,0 +1,10 @@
+DingtalkChatbot==1.5.3
+loguru==0.6.0
+openpyxl==3.0.9
+pydantic==1.10.6
+PyMySQL==1.0.2
+pytest==7.0.1
+PyYAML==6.0
+requests==2.26.0
+selenium==3.141.0
+urllib3==1.26.15
